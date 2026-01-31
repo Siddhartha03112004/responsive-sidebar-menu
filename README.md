@@ -3,7 +3,7 @@
 A modern **responsive sidebar navigation menu** built using **HTML & CSS only**.  
 This project uses the **CSS checkbox hack** to toggle the sidebar without JavaScript.
 
-
+---
 
 ## 🛠️ Tech Stack
 - HTML5
